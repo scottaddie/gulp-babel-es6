@@ -1,0 +1,15 @@
+{
+  "name": "gulp-babel-es6",
+  "version": "0.1.0",
+  "description": "A demonstration of using Gulp and Babel together for ES6 support in gulpfile.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Addie <tobias.addie@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^5.8.21",
+    "gulp": "^3.9.0"
+  }
+}
